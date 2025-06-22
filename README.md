@@ -6,6 +6,6 @@ Download Releases:
 
 <hr style="border: 1px solid #ff0000;">
 
-<p align="center" size="16">
+<p align="center">
   <sub>© 2025 Rubble • Tüm hakları saklıdır • <a href="https://rubble.com.tr">Web Site</a></sub>
 </p>
