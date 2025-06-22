@@ -1,2 +1,3 @@
 # InfiniteStamina
-Unturned InfiniteStamina Plugin
+Download Releases: 
+(Releases)[https://github.com/rubblephp/InfiniteStamina/releases/tag/SRInfiniteStamina]
