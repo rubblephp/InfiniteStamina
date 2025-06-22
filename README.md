@@ -1,0 +1,2 @@
+# InfiniteStamina
+Unturned InfiniteStamina Plugin
