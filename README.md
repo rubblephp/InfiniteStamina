@@ -1,8 +1,8 @@
 # InfiniteStamina
 Unturned Rocket InfiniteStamina Plugins
 
-İndirme Link: 
-[İndir](https://github.com/rubblephp/InfiniteStamina/releases/tag/SRInfiniteStamina)
+Download Link: 
+[Click](https://github.com/rubblephp/InfiniteStamina/releases/tag/SRInfiniteStamina)
 
 <hr style="border: 0.1px solid #ff0000;">
 
