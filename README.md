@@ -1,5 +1,5 @@
 # InfiniteStamina
-Unturned Rocket InfiniteStamina Plugins
+Unturned Rocket InfiniteStamina Plugin
 
 Download Link: 
 [Click](https://github.com/rubblephp/InfiniteStamina/releases/tag/SRInfiniteStamina)
